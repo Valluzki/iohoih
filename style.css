@@ -1,0 +1,44 @@
+html {
+    background-color: darkred;
+}
+header {
+    background-color: darkred;
+    color: white;
+    padding: 0.5em;
+}
+input {
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+button {
+    height: 40px;
+}
+body {
+    color: white;
+    text-align: center;
+    background-color: darkred;
+    font-size: 16px;
+    line-height: 1;
+}
+main {
+    max-width: 800px;
+    margin: auto;
+}
+li {margin: 8px;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
+}
+.bigFont {
+    margin-top: 40px;
+    font-size: 20px;
+}
+a { color: yellow; font-weight: 600;}
+a:visited { color: green; }
